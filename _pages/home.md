@@ -1,5 +1,5 @@
 ---
-title: "IMDL@KSU - Home"
+title: "IMDL - Home"
 layout: homelay
 excerpt: "IMDL at KSU."
 sitemap: false

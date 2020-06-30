@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "IMDL @ KSU."
+excerpt: "IMDL at KSU."
 sitemap: false
 permalink: /allnews.html
 ---
