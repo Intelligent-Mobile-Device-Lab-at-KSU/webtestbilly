@@ -1,6 +1,6 @@
 ---
 title: "IMDL - Home"
-layout: default
+layout: homelay
 excerpt: "IMDL at KSU."
 sitemap: false
 permalink: /
