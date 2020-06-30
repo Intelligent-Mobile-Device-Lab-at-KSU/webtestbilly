@@ -8,7 +8,7 @@ permalink: /symposium/
 
 ### Marquis Brown and Hakeem Wilson
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/arquis.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/marquis.jpg" width="95%">
 </figure>
 
 ### Trevor Stanca
