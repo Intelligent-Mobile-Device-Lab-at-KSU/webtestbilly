@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
-layout: homelay
-excerpt: "Allan Lab at Leiden University."
+title: "IMDL@KSU - Home"
+layout: default
+excerpt: "IMDL at KSU."
 sitemap: false
 permalink: /
 ---
