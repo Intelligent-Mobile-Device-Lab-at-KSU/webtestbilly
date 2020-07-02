@@ -10,6 +10,7 @@ img { margin-bottom: 24px;
 
 
 body {
+  background-color: red($color);
 	padding-top: 70px;
 }
 
@@ -25,7 +26,6 @@ figcaption {
 
 
 p.byline {
-  background-color: red;
 	text-align: center;
 	font-size: 18px;
 	line-height: 36px;
