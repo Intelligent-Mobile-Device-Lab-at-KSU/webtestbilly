@@ -1,12 +1,12 @@
 ---
 title: "IMDL - Team"
-layout: gridlay
+layout: textlay
 excerpt: "IMDL: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-Jump to [Staff](#staff), [Students](#master-and-bachelor-students), [Alumni](#alumni), [Administrative Support](#administrative-support).
+Jump to [Staff](#staff), [Students](#students), [Alumni](#alumni), [Administrative Support](#administrative-support).
 
 ## Staff
 {% assign number_printed = 0 %}
