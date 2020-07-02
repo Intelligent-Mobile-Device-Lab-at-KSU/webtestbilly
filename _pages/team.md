@@ -1,6 +1,6 @@
 ---
 title: "IMDL - Team"
-layout: textlay
+layout: gridlay
 excerpt: "IMDL: Team members"
 sitemap: false
 permalink: /team/
