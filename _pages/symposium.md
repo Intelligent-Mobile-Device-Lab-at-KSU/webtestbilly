@@ -5,9 +5,9 @@ excerpt: "Our Scholars"
 sitemap: false
 permalink: /symposium/
 ---
-#Our Scholars
+# Our Scholars
 
-Our wonderful researchers got the opportunity to virtually present Kennesaw State University's Annual Symposium of Student Scholars. 
+Our wonderful researchers got the opportunity to virtually present Kennesaw State University's Annual Symposium of Student Scholars.
 
 ### Marquis Brown and Hakeem Wilson
 <figure>
