@@ -72,7 +72,7 @@ Jump to [Staff](#staff), [Students](#students), [Alumni](#alumni), [Administrati
 
 
 
-## Undergraduate Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
