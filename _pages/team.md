@@ -8,7 +8,7 @@ permalink: /team/
 
 Jump to [Staff](#staff), [Students](#students), [Alumni](#alumni), [Administrative Support](#administrative-support).
 
-## Staff
+## Lab Director
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -19,7 +19,7 @@ Jump to [Staff](#staff), [Students](#students), [Alumni](#alumni), [Administrati
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: none" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -72,7 +72,7 @@ Jump to [Staff](#staff), [Students](#students), [Alumni](#alumni), [Administrati
 
 
 
-## Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
